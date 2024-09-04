@@ -1,1 +1,1 @@
-# CPSC332WebDev
+This is some project web dev
